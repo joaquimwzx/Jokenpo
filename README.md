@@ -56,7 +56,7 @@ public class Jokenpo {
             }
             //Escolha da maquina 
             maq = (int) (Math.random() * 3);
-            //Escolha da maquina
+            
             if (maq == 0) {
                 System.out.println("Maquina escolheu Pedra");
             } else if (maq == 1) {
